@@ -11,6 +11,11 @@
         "PokemonNameEn": "Bulbasaur",
         "PokemonNameJp": "フシギダネ"
     },
+    "PokeDexIntroduction":{
+        "GameBlue":"据说在它出生的时候，背上就种有一个会和它身体一同成长的神奇种子。",
+        "GameRed":"它出生的时候背上就有一个奇怪的种子。这种子跟随它发芽成长。",
+        "GameGreen":"它出生的时候背上就有一个奇怪的种子。这种子跟随它发芽成长。"
+    },
     "PokemonPicture": "Bulbasaur",
     "Type": {
         "TypeA": "Grass",
@@ -95,7 +100,12 @@
         }
     },
     "EvolutionChain": {
-        "A": "001"
+        "ChainCount":3,
+        "ChainA": "001",
+        "ChainB": "002",
+        "ChainC": "003",
+        "A2B": "等级16",
+        "B2C": "等级32"
     },
     "Learnset": [
         {
@@ -103,15 +113,15 @@
             "MoveListByLvUp": [
                 {
                     "Level": 1,
-                    "Move": "Tackle"
+                    "Move": "001"
                 },
                 {
                     "Level": 1,
-                    "Move": "Growl"
+                    "Move": "002"
                 },
                 {
                     "Level": 5,
-                    "Move": "Vine Whip"
+                    "Move": "003"
                 }
             ],
             "MoveListTMHM": [
@@ -121,11 +131,11 @@
             "MoveListByBreeding": [
                 {
                     "Parent": [
-                        "Slowpoke",
-                        "Slowbro",
-                        "Snorlax"
+                        "023",
+                        "025",
+                        "077"
                     ],
-                    "Move": "Amnesia"
+                    "Move": "001"
                 }
             ],
             "MoveListByTutoring": [

@@ -6,7 +6,7 @@
     },
     {
         "Generation": "GenerationI",
-        "MoveTMNumber": "HM01",
+        "MoveHMNumber": "HM01",
         "MoveNumber": "003"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
         "Generation": "GenerationII",
-        "MoveTMNumber": "HM01",
+        "MoveHMNumber": "HM01",
         "MoveNumber": "003"
     },
     {
