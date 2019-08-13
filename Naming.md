@@ -11,8 +11,12 @@
 | 术语       | English             |
 | ---------- | ------------------- |
 | 属性       | Type                |
+| 属性1      | TypeA               |
+| 属性2      | TypeB               |
 | 特性       | Ability             |
-| 种族值     | Species strength    |
+| 隐藏特性   | HiddenAbility       |
+| 分类       | Category            |
+| 种族值     | SpeciesStrength     |
 | 进化       | Evolution           |
 | 蛋群       | EggGroup            |
 | 捕获率     | CatchRate           |
@@ -26,7 +30,7 @@
 | 图鉴介绍   | PokeDexIntroduction |
 | 招式       | Move                |
 | 升级招式表 | LearnSetByLvUp      |
-|            |                     |
+| 脚印       | Footprint           |
 |            |                     |
 |            |                     |
 
@@ -126,4 +130,13 @@
 | 恶   | TypeDark     |
 | 钢   | TypeSteel    |
 | 妖精 | TypeFairy    |
+
+# H.特性相关
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
 

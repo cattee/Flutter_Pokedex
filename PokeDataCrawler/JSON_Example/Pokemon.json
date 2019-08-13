@@ -1,0 +1,330 @@
+{
+    "PokeDexNumber": {
+        "NationalNumber": "001",
+        "KantoNumber": "001",
+        "JohtoNumberGSC": "226",
+        "JohtoNumberHGSS": "231",
+        "Kalos": "080"
+    },
+    "PokemonName": {
+        "PokemonNameCn": "妙蛙种子",
+        "PokemonNameEn": "Bulbasaur",
+        "PokemonNameJp": "フシギダネ"
+    },
+    "PokemonPicture": "Bulbasaur",
+    "Type": {
+        "TypeA": "Grass",
+        "TypeB": "Prison"
+    },
+    "Ability": "Overgrow",
+    "HiddenAbility": "Chlorophyll",
+    "Height": "0.7m",
+    "Weight": "6.9kg",
+    "Footprint": "F001",
+    "BodyStyle": "Body01",
+    "PokeDexColor": "Green",
+    "CatchRate": {
+        "CatchRateCount": "45",
+        "CatchRatePer": "5.9%"
+    },
+    "GenderRatio": {
+        "GenderRatioM": "87.5%",
+        "GenderRatioF": "12.5%"
+    },
+    "EggGroup": {
+        "EggGroupA": "Monster",
+        "EggGroupB": "Grass"
+    },
+    "EggCycle": {
+        "EggCycleCount": 20,
+        "EggCycleNumber": 5140
+    },
+    "BaseStats": {
+        "HP": 0,
+        "ATK": 0,
+        "DEF": 0,
+        "SPATK": 1,
+        "SPDEF": 0,
+        "SPEED": 0
+    },
+    "SpeciesStrength": {
+        "HP": 45,
+        "ATK": 49,
+        "DEF": 49,
+        "SPATK": 65,
+        "SPDEF": 65,
+        "SPEED": 45,
+        "total": 318
+    },
+    "AbilityRange": {
+        "HP": {
+            "MinHPofLv50": 105,
+            "MaxHPofLv50": 152,
+            "MinHPofLv100": 200,
+            "MaxHPofLv100": 294
+        },
+        "ATK": {
+            "MinATKofLv50": 48,
+            "MaxATKofLv50": 111,
+            "MinATKofLv100": 92,
+            "MaxATKofLv100": 216
+        },
+        "DEF": {
+            "MinDEFofLv50": 48,
+            "MaxDEFofLv50": 111,
+            "MinDEFofLv100": 92,
+            "MaxDEFofLv100": 216
+        },
+        "SPATK": {
+            "MinSPATKofLv50": 63,
+            "MaxSPATKofLv50": 128,
+            "MinSPATKofLv100": 121,
+            "MaxSPATKofLv100": 251
+        },
+        "SPDEF": {
+            "MinSPDEFofLv50": 63,
+            "MaxSPDEFofLv50": 128,
+            "MinSPDEFofLv100": 121,
+            "MaxSPDEFofLv100": 251
+        },
+        "SPEED": {
+            "MinSPEEDofLv50": 45,
+            "MaxSPEEDofLv50": 106,
+            "MinSPEEDofLv100": 85,
+            "MaxSPEEDofLv100": 207
+        }
+    },
+    "EvolutionChain": {
+        "A": "001"
+    },
+    "Learnset": [
+        {
+            "Generation": "GenerationI",
+            "MoveListByLvUp": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListTMHM": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByBreeding": [
+                {
+                    "Parent": [
+                        "Slowpoke",
+                        "Slowbro",
+                        "Snorlax"
+                    ],
+                    "Move": "Amnesia"
+                }
+            ],
+            "MoveListByTutoring": [
+                {
+                    "Game": [
+                        "GameX",
+                        "GameX",
+                        "GameOmegaRuby",
+                        "GameAlphaSapphire"
+                    ],
+                    "Move": "Bind"
+                }
+            ]
+        },
+        {
+            "Generation": "GenerationII",
+            "MoveListByLvUp": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListByTMHM": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByBreeding": [
+                {
+                    "Parent": [
+                        "Slowpoke",
+                        "Slowbro",
+                        "Snorlax"
+                    ],
+                    "Move": "Amnesia"
+                }
+            ],
+            "MoveListByTutoring": [
+                {
+                    "Game": [
+                        "GameX",
+                        "GameX",
+                        "GameOmegaRuby",
+                        "GameAlphaSapphire"
+                    ],
+                    "Move": "Bind"
+                }
+            ]
+        },
+        {
+            "Generation": "GenerationIII",
+            "MoveListByLvUp": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListTMHM": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByBreeding": [
+                {
+                    "Parent": [
+                        "Slowpoke",
+                        "Slowbro",
+                        "Snorlax"
+                    ],
+                    "Move": "Amnesia"
+                }
+            ],
+            "MoveListByTutoring": [
+                {
+                    "Game": [
+                        "GameX",
+                        "GameX",
+                        "GameOmegaRuby",
+                        "GameAlphaSapphire"
+                    ],
+                    "Move": "Bind"
+                }
+            ]
+        },
+        {
+            "Generation": "GenerationIV",
+            "MoveListByLvUp": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListTMHM": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByBreeding": [
+                {
+                    "Parent": [
+                        "Slowpoke",
+                        "Slowbro",
+                        "Snorlax"
+                    ],
+                    "Move": "Amnesia"
+                }
+            ],
+            "MoveListByTutoring": [
+                {
+                    "Game": [
+                        "GameX",
+                        "GameX",
+                        "GameOmegaRuby",
+                        "GameAlphaSapphire"
+                    ],
+                    "Move": "Bind"
+                }
+            ]
+        },
+        {
+            "Generation": "GenerationVII",
+            "MoveListByLvUpLGPE": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListTMHMLGPE": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByLvUpSM": [
+                {
+                    "Level": 1,
+                    "Move": "Tackle"
+                },
+                {
+                    "Level": 1,
+                    "Move": "Growl"
+                },
+                {
+                    "Level": 5,
+                    "Move": "Vine Whip"
+                }
+            ],
+            "MoveListTMHMSM": [
+                "TM03",
+                "TM06"
+            ],
+            "MoveListByBreedingSM": [
+                {
+                    "Parent": [
+                        "Slowpoke",
+                        "Slowbro",
+                        "Snorlax"
+                    ],
+                    "Move": "Amnesia"
+                }
+            ],
+            "MoveListByTutoringSM": [
+                {
+                    "Game": [
+                        "GameX",
+                        "GameX",
+                        "GameOmegaRuby",
+                        "GameAlphaSapphire"
+                    ],
+                    "Move": "Bind"
+                }
+            ]
+        }
+    ]
+}

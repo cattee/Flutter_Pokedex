@@ -1,0 +1,32 @@
+[
+    {
+        "Generation": "GenerationI",
+        "MoveTMNumber": "TM01",
+        "MoveNumber": "002"
+    },
+    {
+        "Generation": "GenerationI",
+        "MoveTMNumber": "HM01",
+        "MoveNumber": "003"
+    },
+    {
+        "Generation": "GenerationII",
+        "MoveTMNumber": "TM01",
+        "MoveNumber": "002"
+    },
+    {
+        "Generation": "GenerationII",
+        "MoveTMNumber": "HM01",
+        "MoveNumber": "003"
+    },
+    {
+        "Generation": "GenerationIV",
+        "MoveTMNumber": "TM01",
+        "MoveNumber": "002"
+    },
+    {
+        "Generation": "GenerationIV",
+        "MoveTMNumber": "HM01",
+        "MoveNumber": "003"
+    }
+]

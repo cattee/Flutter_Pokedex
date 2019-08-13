@@ -1,0 +1,22 @@
+[
+    {
+        "Generation":"GenerationI",
+        "MoveNumber":"1",
+        "MoveName":{"MoveNameCn":"拍击","MoveNameJp":"はたく","MoveNameEn":"Pound"},
+        "Type":"Common",
+        "Contest":"Tough",
+        "PP":"35",
+        "Power":"40",
+        "Accuracy":"100%"
+    },
+    {
+        "Generation":"GenerationI",
+        "MoveNumber":"2",
+        "MoveName":{"MoveNameCn":"xxx","MoveNameJp":"xxx","MoveNameEn":"xxx"},
+        "Type":"Common",
+        "Contest":"Tough",
+        "PP":"35",
+        "Power":"40",
+        "Accuracy":"100%"
+    }
+]
